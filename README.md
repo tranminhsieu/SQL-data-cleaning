@@ -10,5 +10,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam orci quam, rutrum s
 a1 | b2
 ---|---
 1|2
-
-<img src="[https://lms.swisscoding.edu.vn/pluginfile.php/1/core_admin/logo/0x200/1711103404/sca_logo.png](https://static-images.vnncdn.net/files/publish/2023/8/2/revuelto-thai-lan-1-120.jpg)" width="200" style="display: block; margin: 50px auto;">

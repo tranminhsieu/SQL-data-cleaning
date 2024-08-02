@@ -7,4 +7,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam orci quam, rutrum s
 
 <img src="https://lms.swisscoding.edu.vn/pluginfile.php/1/core_admin/logo/0x200/1711103404/sca_logo.png" width="200" style="display: block; margin: 50px auto;">
 
-#H##2

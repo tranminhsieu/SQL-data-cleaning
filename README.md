@@ -36,4 +36,5 @@ CREATE TABLE club_member_info_cleaned (
 	full_address VARCHAR(50),
 	job_title VARCHAR(50),
 	membership_date VARCHAR(50)
-);```
+);
+```

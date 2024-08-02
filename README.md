@@ -26,6 +26,7 @@ a1 | b2
 | fey kloss|52|married|fkloss9@godaddy.com|808-177-0318|8976 Jackson Park,Honolulu,Hawaii|Chemical Engineer|11/5/2014|
 
 # Make a copy of your table
+```
 CREATE TABLE club_member_info_cleaned (
 	full_name VARCHAR(50),
 	age INTEGER,
@@ -35,4 +36,4 @@ CREATE TABLE club_member_info_cleaned (
 	full_address VARCHAR(50),
 	job_title VARCHAR(50),
 	membership_date VARCHAR(50)
-);
+);```

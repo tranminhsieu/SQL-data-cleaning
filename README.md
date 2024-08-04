@@ -43,3 +43,25 @@ CREATE TABLE club_member_info_cleaned (
 INSERT INTO club_member_info_cleaned
 SELECT * FROM club_member_info ;
 ```
+# Leading and trailing whitespaces
+## TRIM TEXT
+```
+UPDATE club_member_info_cleaned 
+SET full_name =TRIM(full_name);
+```
+## UPPER TEXT
+```
+UPDATE club_member_info_cleaned 
+SET full_name =TRIM(full_name);
+```
+### FILTER Age out of realistic range and fix by setting value = 0
+```
+SELECT  age 
+FROM club_member_info_cleaned cmic 
+WHERE age >=120
+```
+```
+UPDATE club_member_info_cleaned 
+SET age = 0
+WHERE age >=150
+```

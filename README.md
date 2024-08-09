@@ -52,7 +52,7 @@ SET full_name =TRIM(full_name);
 ## UPPER TEXT
 ```
 UPDATE club_member_info_cleaned 
-SET full_name =TRIM(full_name);
+SET full_name =upper(full_name);
 ```
 ### FILTER Age out of realistic range and fix by setting value = 0
 ```
